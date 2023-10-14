@@ -1,4 +1,4 @@
-
+# 3-Tier_Arch_with_AWS_Terraform
 ![alt text](https://miro.medium.com/max/900/1*rJ_YbOr71X1iKrrW3do4nQ.png)
 
 Required Components of AWS
@@ -50,4 +50,4 @@ https://github.com/azizulmaqsud
 
 <a href="https://www.buymeacoffee.com/azizulmaqsud"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=scaleupsaas&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> 
 
-# 3-Tier_Arch_with_AWS_Terraform
+
